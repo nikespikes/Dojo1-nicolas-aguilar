@@ -9,7 +9,7 @@
 
 
 ## Proyecto: Semaforo
-![Tinkercad](./img/image.png)
+![final-tpGrupal (1)](https://user-images.githubusercontent.com/123977886/234974813-594cea59-b237-4519-982b-899ecd2a8d85.png)
 
 
 ## Descripción
